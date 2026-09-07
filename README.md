@@ -10,7 +10,7 @@ Computer Science Engineering student at PES University passionate about architec
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science Engineering** at **PES University, Bangalore** (Expected Graduation: **2026** | CGPA: **7.10**).
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science Engineering** at **PES University, Bangalore** (Expected Graduation: **2026** | CGPA: **7.48**).
 - ⚡ **Core Focus:** Software Engineering, Artificial Intelligence & Computer Vision, Cybersecurity, Aerospace & Defence Technology, and Control Systems.
 - 🛠️ **Engineering Approach:** Hands-on developer skilled in bridging software, hardware simulation, AI inference, and secure telemetry communications.
 - 🎯 **Objective:** Building robust, real-time software and engineering applications that deliver practical impact.
@@ -58,64 +58,6 @@ Computer Science Engineering student at PES University passionate about architec
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
 `AES-256 Encryption` • `CTF Fundamentals`
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ 1. Intelligent Public Safety Monitoring System
-> **AI-Driven Surveillance Engine for High-Accuracy Suspicious Activity Detection**
-
-- **Overview:** Developed an intelligent public surveillance system that analyzes real-time CCTV video streams to identify suspicious behavior while minimizing false alarms by combining multiple AI analytical signals.
-- **Key Features:**
-  - Integrated **YOLOv8** custom object detection with **MoveNet** pose estimation and facial emotion recognition.
-  - Implemented multi-object tracking using **Kalman Filters** and contextual scene evaluation with **LLaMA**.
-  - Incorporated **Explainable AI (XAI)** techniques using **LIME** and **SHAP** for transparent model interpretability.
-- **Technologies:** `Python` • `YOLOv8` • `MoveNet` • `Kalman Filter` • `LLaMA` • `LIME` • `SHAP` • `Computer Vision`
-
----
-
-### 🛰️ 2. Ground Control Station (GCS)
-> **Custom Mission Planning & Security Interface for UAV / Defence Applications**
-
-- **Overview:** Architected and evaluated a modular Ground Control Station application designed for unmanned aerial vehicle (UAV) flight monitoring, telemetry handling, and mission control.
-- **Key Features:**
-  - Performed comprehensive feature testing, functional verification, and system documentation for flight-control workflows.
-  - Configured real-time mission tracking interfaces and safety interlocks for UAV navigation.
-  - Enforced security protocols using **AES-256 encryption** for sensitive flight logs and stored telemetry data.
-- **Technologies:** `C++` • `Python` • `UDP Telemetry` • `ArduPilot` • `AES-256 Encryption` • `Mission Planning`
-
----
-
-### ✈️ 3. X-Plane + Simulink + ArduPilot Flight Simulation Pipeline
-> **Hardware-in-the-Loop Flight Dynamics & Control System Integration**
-
-- **Overview:** Built an end-to-end flight simulation and control system pipeline interfacing X-Plane flight simulator, MATLAB/Simulink models, and ArduPilot flight controllers.
-- **Key Features:**
-  - Established high-frequency bi-directional **UDP communication** to exchange flight telemetry and control signals in real time.
-  - Designed and tuned custom **PID controllers** in Simulink to govern aircraft stability and trajectory.
-  - Mapped control surface outputs to ArduPilot parameters for automated flight routine validation.
-- **Technologies:** `X-Plane` • `MATLAB / Simulink` • `ArduPilot` • `PID Control` • `UDP Protocols` • `Flight Dynamics`
-
----
-
-### ⚙️ 4. Turbo Engine Test Rig Monitoring Dashboard
-> **Real-Time Instrumentation & Control Interface for Engine Testing**
-
-- **Overview:** Developed a real-time telemetry dashboard tailored for monitoring, control, and data visualization of a turbo engine test rig.
-- **Key Features:**
-  - Visualized critical engine parameters (RPM, pressure, temperature, fuel flow) with low latency.
-  - Integrated digital throttle control inputs and emergency shutdown safety triggers.
-  - Designed an engineering-focused, high-contrast UI/UX optimized for operational accuracy during testing.
-- **Technologies:** `JavaScript` • `React.js` • `Node.js` • `Real-Time Data Streams` • `UI/UX Design`
-
----
-
-### 🌦️ 5. Web-Based Weather Application
-> **Responsive Full-Stack Weather Tracker**
-
-- **Overview:** Built a web application providing real-time weather metrics, location forecasts, and historical search logging.
-- **Technologies:** `HTML5` • `CSS3` • `JavaScript` • `Node.js` • `MongoDB`
 
 ---
 
