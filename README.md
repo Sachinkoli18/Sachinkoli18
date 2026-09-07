@@ -10,7 +10,7 @@ Computer Science Engineering student at PES University passionate about architec
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science Engineering** at **PES University, Bangalore** (Expected Graduation: **2026** | CGPA: **7.48**).
+- 🎓 **Education:** **B.Tech in Computer Science Engineering** at **PES University, Bangalore** (Graduated in **2026** | CGPA: **7.48**).
 - ⚡ **Core Focus:** Software Engineering, Artificial Intelligence & Computer Vision, Cybersecurity, Aerospace & Defence Technology, and Control Systems.
 - 🛠️ **Engineering Approach:** Hands-on developer skilled in bridging software, hardware simulation, AI inference, and secure telemetry communications.
 - 🎯 **Objective:** Building robust, real-time software and engineering applications that deliver practical impact.
@@ -68,19 +68,6 @@ Computer Science Engineering student at PES University passionate about architec
 - **Flight Dynamics & Simulation:** Integrated `X-Plane`, `Simulink`, and `ArduPilot` over `UDP` sockets to test custom PID flight-control laws in closed-loop simulations.
 - **Real-Time Dashboards:** Built interactive control and telemetry visualization dashboards for turbo engine test rigs, emphasizing data integrity and dynamic UI controls.
 - **AI / Computer Vision Systems:** Architected multi-modal video analytics solutions combining object detection, human pose tracking, and explainable AI metrics.
-
----
-
-## 🧠 Engineering Interests
-
-```
-┌───────────────────────────┬───────────────────────────┐
-│ 🤖 AI & Computer Vision   │ 🛡️ Cybersecurity         │
-│ 💻 Software Engineering   │ ✈️ Aerospace & UAV Systems │
-│ 🎛️ Control Systems & PID  │ 🌐 Real-Time Systems      │
-│ 🕹️ Flight Simulation      │ 🪖 Defence Technology     │
-└───────────────────────────┴───────────────────────────┘
-```
 
 ---
 
