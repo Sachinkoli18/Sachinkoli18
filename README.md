@@ -17,18 +17,6 @@ Computer Science Engineering student at PES University passionate about architec
 
 ---
 
-## 🎯 Current Focus
-
-| Focus Area | Key Activities & Objectives |
-| :--- | :--- |
-| **Software Systems** | Designing modular, maintainable, and scalable software architectures |
-| **AI & Computer Vision** | Multi-signal video surveillance, object detection, pose estimation, and XAI |
-| **Aerospace & Defence** | Ground Control Station workflows, UAV mission planning, and encrypted telemetry |
-| **Control & Simulation** | Hardware-in-the-loop simulation using X-Plane, Simulink models, and PID controllers |
-| **Cybersecurity** | Implementing AES-256 data security, network monitoring, and security best practices |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Core
